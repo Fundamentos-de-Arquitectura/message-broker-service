@@ -1,4 +1,3 @@
-cd kafka-infrastructure
 docker-compose up -d
 
 Start-Sleep -Seconds 15
