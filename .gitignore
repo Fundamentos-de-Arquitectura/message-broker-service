@@ -1,0 +1,16 @@
+.DS_Store
+Thumbs.db
+
+.idea/
+.vscode/
+*.swp
+
+.docker/
+volumes/
+data/
+
+*.log
+logs/
+
+.env.local
+.env.*.local
